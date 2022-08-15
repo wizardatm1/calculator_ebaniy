@@ -6,7 +6,7 @@ let op2;
 let result
 let operation;
 let textarea = document.getElementById(txtStory);
-const Pi = 3.1415926535;
+const Pi = 3.141592653;
 
 function getNumbers(result){
     if(result){
